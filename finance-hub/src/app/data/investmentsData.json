@@ -1,14 +1,8 @@
 [
-    { "label": "Jan", "balance": 1000 },
-    { "label": "Feb", "balance": 950 },
-    { "label": "Mar", "balance": 1025 },
-    { "label": "Apr", "balance": 980 },
-    { "label": "May", "balance": 1100 },
-    { "label": "Jun", "balance": 1070 },
-    { "label": "Jul", "balance": 1125 },
-    { "label": "Aug", "balance": 1080 },
-    { "label": "Sep", "balance": 1150 },
-    { "label": "Oct", "balance": 1110 },
-    { "label": "Nov", "balance": 1050 },
-    { "label": "Dec", "balance": 1200 }
+    { "label": "Jan", "balance": 4804 },
+    { "label": "Feb", "balance": 4804 },
+    { "label": "Mar", "balance": 4804 },
+    { "label": "Apr", "balance": 4804 },
+    { "label": "May", "balance": 4804 },
+    { "label": "Jun", "balance": 4804 }
 ]

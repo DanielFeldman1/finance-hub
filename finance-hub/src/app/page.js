@@ -20,8 +20,8 @@ export default function Home() {
   return (
     <div className="flex items-center justify-center min-h-screen">
       <div className="bg-gray-100 min-h-screen">
-        <div className="bg-white shadow-md rounded-2xl border-1 border-gray-300 m-10 p-10">
-          <h1>{`Net Worth: ${netWorthThousand},${netWorthHundrads} ILS`}</h1>
+        <div className="bg-white shadow-md rounded-2xl border-1 border-gray-300 m-10 p-10 mt-20">
+          <h1>{`Net Worth: ${netWorthThousand},${Math.round(netWorthHundrads)} ILS`}</h1>
         </div>
         <div className="grid grid-cols-4">
           <div>

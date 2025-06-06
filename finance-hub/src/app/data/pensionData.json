@@ -1,14 +1,14 @@
 [
-    { "label": "Jan", "balance": 50000 },
-    { "label": "Feb", "balance": 50500 },
-    { "label": "Mar", "balance": 51000 },
-    { "label": "Apr", "balance": 51800 },
-    { "label": "May", "balance": 52500 },
-    { "label": "Jun", "balance": 53000 },
-    { "label": "Jul", "balance": 54000 },
-    { "label": "Aug", "balance": 55000 },
-    { "label": "Sep", "balance": 55800 },
-    { "label": "Oct", "balance": 56500 },
-    { "label": "Nov", "balance": 57200 },
-    { "label": "Dec", "balance": 58000 }
+    { "label": "Jan", "balance": 25477 },
+    { "label": "Feb", "balance": 25477 },
+    { "label": "Mar", "balance": 25477 },
+    { "label": "Apr", "balance": 25477 },
+    { "label": "May", "balance": 25477 },
+    { "label": "Jun", "balance": 25477 },
+    { "label": "Jul", "balance": 25477 },
+    { "label": "Aug", "balance": 25477 },
+    { "label": "Sep", "balance": 25477 },
+    { "label": "Oct", "balance": 25477 },
+    { "label": "Nov", "balance": 25477 },
+    { "label": "Dec", "balance": 25477 }
 ]
