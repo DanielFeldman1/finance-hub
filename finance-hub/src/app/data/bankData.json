@@ -1,0 +1,14 @@
+[
+    { "label": "Jan", "balance": 49500 },
+    { "label": "Feb", "balance": 50000 },
+    { "label": "Mar", "balance": 50600 },
+    { "label": "Apr", "balance": 51200 },
+    { "label": "May", "balance": 52000 },
+    { "label": "Jun", "balance": 52800 },
+    { "label": "Jul", "balance": 53600 },
+    { "label": "Aug", "balance": 54300 },
+    { "label": "Sep", "balance": 55100 },
+    { "label": "Oct", "balance": 56000 },
+    { "label": "Nov", "balance": 57000 },
+    { "label": "Dec", "balance": 58000 }
+]
