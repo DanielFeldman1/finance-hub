@@ -2,8 +2,8 @@
 import GraphCard from "./components/GraphCard";
 import investmentsData from "./data/investmentsData.json";
 import bankData from "./data/bankData.json";
-import pensionData from "/.data/pensionData.json";
-import savingsData from "/.data/savingsData.json";
+import pensionData from "./data/pensionData.json";
+import savingsData from "./data/savingsData.json";
 
 export default function Home() {
   return (
